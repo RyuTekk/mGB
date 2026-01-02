@@ -8,7 +8,7 @@ PROJECTNAME = mGB
 
 MAKEFLAGS += --no-builtin-rules
 
-LCC = $(GBDK_HOME)/bin/lcc
+LCC = lcc
 
 LCCFLAGS += -msm83:gb # GB/GBC
 # LCCFLAGS += -v # verbose

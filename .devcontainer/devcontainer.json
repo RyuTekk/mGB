@@ -1,0 +1,8 @@
+{
+    "name": "gbsdk",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	// "image": "debian:trixie-slim",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+}
